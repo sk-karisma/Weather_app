@@ -51,4 +51,4 @@ This project allows users to enter a city name and get real-time weather informa
 ---
 
 ## Link
- [Weather Dashboard]()
+ [Weather Dashboard](https://sk-karisma.github.io/Weather_app/weather.html)
